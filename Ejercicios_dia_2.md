@@ -1,3 +1,14 @@
+Ejercicio_1. Busqueda de dominios en una proteína
+----------------------------
+Escribe un script de python que busque el dominio twin-arginines "RR" en esta proteína e indique su posicion:
+
+```
+MGNQFWIYGLAGLLLSGSAAGVTAVYRNQSPPQMMAQQGMHMQWTDQSFIEMMTPHHQDAIDMAEMALQKAEHPELKKLARNIIRDQEREIKEMKRRYQQWFKRPVPALSSQGMMGMHQGHGMMAMDLDALATAQNFDREFIRQMIPHHQMAVMMASNLKTNTERPEMDKLMDDIIRSQSAEIKQMKQWYQNWYGQ
+```
+
+<br>
+
+
 
 Ejercicio_2. Porcentaje GC
 ----------------------------
