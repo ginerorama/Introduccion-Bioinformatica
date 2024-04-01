@@ -1,1 +1,1 @@
-# Introducci-n-Bioinformatica
+# Introduccion-Bioinformatica
