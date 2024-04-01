@@ -37,13 +37,15 @@ __c)__ que escriba al final la secuencia de ADN indicando en minúscula el intro
 
 __d)__ el script debe generar dos archivos uno con las dos secuencias en formato fasta conteniendo los exones y otro archivo conteniendo en formato fasta el intron tal y como sigue:
 
-exones.fasta
-
+*exones.fasta*
+```
 >exon1
 agcta...
 >exon2
 agtcgatca
-intrones.fasta
-
+```
+*intrones.fasta*
+```
 >intron
 atgctacg....
+```
