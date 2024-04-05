@@ -27,7 +27,7 @@ Linus Torvalds era un estudiante de la Universidad de Helsinki a quien le gustab
 <br />
 #### Linux Ubuntu 
 
-Linux Mint 20.0
+Linux Ubuntu 20.0
 A diferencia de Windows, hay muchas interfaces ("shells"), distribuciones y "sabores" o Flavours de Linux. Obviamente, la interfaz que está en tu teléfono Android es muy diferente de la que puedes usar con Ubuntu. ¡Ten en cuenta que también hay muchas interfaces diferentes para tu teléfono! Linux también estará incrustado en dispositivos como Raspberry PI, tu router WiFi, tu Smart TV, sistemas de entretenimiento en tu automóvil y en naves espaciales. Linux puede ser muy pequeño: ¡hay distribuciones de Linux que se ejecutarán con tan solo 3 MB de RAM! Debido 
 
 
