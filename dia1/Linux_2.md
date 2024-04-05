@@ -22,7 +22,7 @@ The information that is presented at the command prompt can be customized by the
 
 
 <p align="center">
-<img src="/media/9.png" alt="drawing"/>
+<img src="media/9.png" alt="drawing"/>
 </p>
 
 
@@ -46,7 +46,7 @@ The prompt is just there to let you know that the shell is ready for you to type
 
 
 <p align="center">
-<img src="/media/11.png" alt="drawing" />
+<img src="media/11.png" alt="drawing" />
 </p>
 
 
@@ -71,7 +71,7 @@ as simple as `clear` or `date`. This last allow to retrive the current date in t
 
 
 <p align="center">
-<img src="/media/10.png" alt="drawing"/>
+<img src="media/10.png" alt="drawing"/>
 </p>
 
 These commands all tend to have the following structure:
@@ -140,7 +140,7 @@ It is important to note that almost ***everything in Linux is case-sensitive***,
 When you first login, your current working directory is your home directory. Your home directory has the same name as your user-name, in my case, **jgl**, and it is where your personal files and subdirectories are saved.
 
 <p align="center">
-<img src="/media/1.png" alt="drawing" "/>
+<img src="media/1.png" alt="drawing" "/>
 </p>
 
 To find out what is in your home directory, type
@@ -148,7 +148,7 @@ To find out what is in your home directory, type
 `$ ls (short for list)`
 
 <p align="center">
-<img src="/media/2.png" alt="drawing" "/>
+<img src="media/2.png" alt="drawing" "/>
 </p>
 
 The `ls command lists the contents of your current working directory, but only the names of files and directories. 
@@ -161,7 +161,7 @@ To get a more detailed information about the files and directories, type
 <br />
 
 <p align="center">
-<img src="/media/3.png" alt="drawing" "/>
+<img src="media/3.png" alt="drawing" "/>
 </p>
 
 We can observe now a lot of information distributed by columns for all the files and directories:
@@ -189,7 +189,7 @@ columns | Information	  |
 Try now to use `-h` to display unit suffixes in column 5 for file sizes: Byte, Kilobyte, Megabyte...
 
 <p align="center">
-<img src="/media/4.png" alt="drawing" />
+<img src="media/4.png" alt="drawing" />
 </p>
 
 
@@ -200,7 +200,7 @@ To list all files and directories in your home directory including those whose n
 `$ ls -la`
 
 <p align="center">
-<img src="/media/5.png" alt="drawing" />
+<img src="media/5.png" alt="drawing" />
 </p>
 
 <br />
@@ -214,7 +214,7 @@ Everything, all the files and directories, in Linux are located under `root` rep
 
 
 <p align="center">
-<img src="/media/UnixDirectoryTree.png" alt="drawing" />
+<img src="media/UnixDirectoryTree.png" alt="drawing" />
 </p>
 
 Since all other directories or files are descended from root, the absolute path of any file is traversed through root. For example, if you have a file in /home/jelkner/pubic_html, you can guess that the directory structure goes from root->home->jelkner->public-html->index.html.
@@ -269,7 +269,7 @@ Still in the **bioinformatic_course/** directory, type
 `$ ls -la`
 
 <p align="center">
-<img src="/media/6.png" alt="drawing" />
+<img src="media/6.png" alt="drawing" />
 </p>
 
 
@@ -312,7 +312,7 @@ The full pathname will look something like this -
 **/Users/jgl**
 
 <p align="center">
-<img src="/media/7.png" alt="drawing" />
+<img src="media/7.png" alt="drawing" />
 </p>
 
 
@@ -342,7 +342,7 @@ The *absolute path* is depicted in the green dotted line and the relative path i
 
 
 <p align="center">
-<img src="/media/8.png" alt="drawing" />
+<img src="media/8.png" alt="drawing" />
 </p>
 
 
