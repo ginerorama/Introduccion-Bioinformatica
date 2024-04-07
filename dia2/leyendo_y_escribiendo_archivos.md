@@ -139,3 +139,48 @@ my_file.write(seq1+seq2)
 #close the file
 my_file.close()
 ```
+
+
+
+# Ejercicios 
+
+### Ejercicio_1. División de ADN genómico
+
+Usando el archivo llamado genomic_dna.txt; contiene el mismo fragmento de ADN genómico que estábamos utilizando en el ejercicio final del tema anterior. Escribe un programa que divida el ADN genómico en partes codificantes y no codificantes, y escriba estas secuencias en dos archivos separados.
+
+<br>
+
+### Ejercicio_2. Escribiendo un archivo FASTA
+
+El formato de archivo FASTA es un formato comúnmente utilizado para secuencias de ADN y proteínas. Una secuencia única en formato FASTA se ve así:
+
+```
+ >sequence_name
+ ATCGACTGATCGATCGTACGAT
+```
+Donde sequence_name es un encabezado que describe la secuencia (el símbolo mayor que indica el inicio de la línea de encabezado). A menudo, el encabezado contiene un número de acceso que se relaciona con el registro de la secuencia en una base de datos pública de secuencias. Un solo archivo FASTA puede contener múltiples secuencias, como esta:
+
+```
+>sequence_one
+ ATCGATCGATCGATCGAT
+ >sequence_two
+ ACTAGCTAGCTAGCATCG
+ >sequence_three
+ ACTGCATCGATCGTACCT    
+```
+
+Escribe un programa que cree un archivo FASTA para las siguientes tres secuencias; asegúrate de que todas las secuencias estén en mayúsculas y solo contengan las bases A, T, G y C.
+
+<br>
+
+| Sequence header | DNA sequence                           |
+|-----------------|----------------------------------------|
+| ABC123          | ATCGTACGATCGATCGATCGCTAGACGTATCG      |
+| DEF456          | ACTGATCGACGATCGATCGATCACGACT           |
+| HIJ789          | ACTGAC-ACTGT--ACTGTA----CATGTG        |
+
+<br>
+
+### Ejercicio_3. Escribe múltiples archivos FASTA
+Utiliza los datos del ejercicio anterior, pero en lugar de crear un solo archivo FASTA, crea tres nuevos archivos FASTA, uno por cada secuencia. Los nombres de los archivos FASTA deben ser iguales a los nombres de encabezado de las secuencias, con la extensión .fasta.
+
