@@ -28,7 +28,8 @@ ACTGATCGATTACGTATAGTAGAATTCTATCATACATATATATCGATGCGTTCAT
 ```
 
 Esta secuencia contiene un sitio de restricción reconocido por la enzima __EcorRI__, la cual corta el motivo  `G*AATTC` ( el asterisco indica el sitio exacto del corte). 
-1.Escribe un script que calcule el tamaño de los dos fragmentos que se produciran en las secuencia de ADN tras ser digerida con __EcoRI__
+
+1. Escribe un script que calcule el tamaño de los dos fragmentos que se produciran en las secuencia de ADN tras ser digerida con __EcoRI__
 
 
 2. Escribe un script que imprima en pantalla la reversa complementaria de la secuencia
