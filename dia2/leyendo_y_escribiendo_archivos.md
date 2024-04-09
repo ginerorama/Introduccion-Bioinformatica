@@ -28,7 +28,7 @@ print(file_content)
 si ahora ejecutamos el script:
 
 ```
-~ python read_file.py
+$ python read_file.py
 >seq1
 atagatagatagat
 ```
