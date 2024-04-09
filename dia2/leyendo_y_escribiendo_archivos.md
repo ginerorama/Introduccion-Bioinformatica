@@ -22,7 +22,7 @@ open_file = open(file,"r")
 file_content = open_file.read()
 
 #finalmente imprimimos el contenido del archivo en pantalla
-print file_content
+print(file_content)
 ```
 
 si ahora ejecutamos el script:
