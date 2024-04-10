@@ -296,7 +296,7 @@ Hasta ahora todas nuestras listas han sido escritas manualmente. Sin embargo, ha
 
 ```python
 names = "melanogaster,simulans,yakuba,ananassae" 
-species = names.split(",") 
+species = names.split(",","r") 
 print(str(species))
 ```
 
