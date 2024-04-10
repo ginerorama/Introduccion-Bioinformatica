@@ -11,7 +11,7 @@ atagatagatagat
 ```
 si quisieramos abrir el archivo, guardar en una variable su contenido e imprimir dicha variable, podríamos hacer el siguiente script __read_file.py__:
 
-```
+```python
 #almacenamos en una variable tipo string el path del archivo
 file = "dna.txt"
 
@@ -27,7 +27,7 @@ print(file_content)
 
 si ahora ejecutamos el script:
 
-```
+```python
 $ python read_file.py
 >seq1
 atagatagatagat
@@ -37,7 +37,7 @@ La función `open(archivo, opciones)`, vemos que tiene dos argumentos, el primer
 
 importante `read()` es un método, y como ya hemos comentado antes, los métodos son funciones específicas para cierto tipo de objetos. En este caso la función `read()` solo puede usarse con objetos que sean archivos. Si lo intentamos usar con un string obtendremos un error, veamoslo directamente en python (recuerda para entrar en python solo tienes que escribir __python__ en terminal y para salir escribir __exit()__:
 
-```
+```python
 >> my_dna = "atgc"
 >> fna_content = my_dna.read()
 Traceback (most recent call last):
@@ -67,14 +67,14 @@ Crear y almacenar datos en un archivo de texto es realmente facil en Python util
 -`a` append para añadir lineas o strings al final de un archivo existente
 
 Recuerda que `r` lo usaremos para abrir y leer archivos
-```
+```python
 my_file = open("out.txt", "w") #creamos un archivo en modo escritura
 my_file.write("Hello world") # utilizamos el metodo write() para escribir en un archivo
 ```
 Luego utilizaremos el método `write()` que permite insertar o escribir texto en un archivo que haya sido creado con la función `open()` en modo w o a . Write funciona exactamente igual que print(), solo que en vez de imprimir el texto en terminal lo va a escribir en un archivo de texto. Eso si al usar `write()` trendremos que especificar cuando escribamos un string si queremos añadir un salto de linea o no `\n`. 
 
 veamos un ejemplo para entender todo esto mejor con el script __write_python.py__ :
-```
+```python
 my_file = open("out.txt", "w") #creamos un archivo en modo escritura
 
 # write "TTGC"
