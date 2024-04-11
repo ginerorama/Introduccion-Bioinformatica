@@ -1,4 +1,4 @@
-# Curso de introducción a la Bioinformatica y programación con Python
+# Curso de introducción a la Bioinformatica y programación con Python 2024
 
 <p align="center">
  <img src="curso.jpeg" alt="drawing" width="350"/> 
@@ -6,7 +6,7 @@
 
 
 
-
+** Facultad de Biologia de la Universidad de Sevilla **
 # Prorgrama
 Dia 1: Instalación LINUX, Navegación por Terminal y Comandos del sistema <br>
 Día 2: Introducción al Lenguaje Python, Trabajo con Secuencias y lectura de archivos <br>
