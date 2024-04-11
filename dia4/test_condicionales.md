@@ -102,6 +102,7 @@ La mayor parte del tiempo, la declaración if la usamos para probar una propieda
 Aquí tienes un ejemplo ligeramente más interesante: vamos a definir una lista de nombres de acceso a genes e imprimir solo aquellos que comienzan con "a":
 
 ```python
+#imprimir solo los que comienzan por a
 accs = ['ab56', 'bh84', 'hv76', 'ay93', 'ap97', 'ad727']
 for accession in accs:
     if accession.startswith('a'):
