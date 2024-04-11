@@ -249,7 +249,7 @@ Incluso podemos unir condiciones complejas para hacer condiciones aun mas comple
 ```python
 accs = ['ab56', 'bh84', 'hv76', 'ay93', 'ap97', 'bd72']
 for acc in accs:
-    if (acc.startswith('a') or acc.startswith('b')) and acc.endswith('4'):
+    if ((acc.startswith('a') or acc.startswith('b')) and acc.endswith('4'):
        print(acc)
 ```
 
