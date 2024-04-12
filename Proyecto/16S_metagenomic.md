@@ -45,7 +45,7 @@ Total de secuencias para acidobacterium: 186
 
 **Quieres ir mas alla?**
 1. Puedes obtener los porcentajes de cada especie respecto al total de secuencias fasta analizadas?
-1. Que te parece explorar los paquetes numpy y matplotlib y plotear los resultados en un histograma de frecuencias?
+1. Que te parece explorar el paquete matplotlib y plotear los resultados en un histograma de frecuencias?(para instalarlo hay que teclear en la terminal pip install matplotlib)
 
 
 
