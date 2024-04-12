@@ -190,3 +190,10 @@ for trinucleotide, count in counts.items():
 ```
 
 Este método generalmente es preferido para iterar sobre elementos en un diccionario, ya que el codigo es mas claro y conciso.
+
+
+
+# Ejercicios
+
+1. Crea un diccionario usando como clave el nombre del gen y como valor la secuencia del gen presente en la tabla data.cvs que se encuentra en la carpeta resources. Recuerda que la tabla tiene los valores separados por comas 
+
