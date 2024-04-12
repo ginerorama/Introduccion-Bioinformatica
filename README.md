@@ -14,3 +14,7 @@ Día 2: Introducción al Lenguaje Python, Trabajo con Secuencias y lectura de ar
 Día 3: Listas, Bucles y funciones <br>
 Día 4: Condicionales y diccionarios <br>
 Día 5: Gestión de Archivos y Proyecto Bioinformático <br>
+
+# Encuesta 
+
+https://forms.gle/BMPv7EuYByUBZJ5W8
