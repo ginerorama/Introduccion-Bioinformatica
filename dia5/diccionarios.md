@@ -138,9 +138,9 @@ if 'AAA' in counts:
 Iterar sobre un diccionario
 ---------------------------
 
-*metodo Key, value e items.*
+*metodo Keys e items.*
 
-**Iterar sobre claves (método Key)**
+**Iterar sobre claves (método Keys)**
 Cuando se usa en un diccionario, el método keys devuelve una lista de todas las claves en el diccionario:
 
 ```python
