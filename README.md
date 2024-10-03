@@ -8,7 +8,7 @@
 
 **Facultad de Biologia de la Universidad de Sevilla**
 <br>
-# Prorgrama
+# Programa
 Dia 1: Instalación LINUX, Navegación por Terminal y Comandos del sistema <br>
 Día 2: Introducción al Lenguaje Python, Trabajo con Secuencias y lectura de archivos <br>
 Día 3: Listas, Bucles y funciones <br>
